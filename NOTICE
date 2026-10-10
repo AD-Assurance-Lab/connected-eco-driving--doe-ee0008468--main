@@ -1,0 +1,16 @@
+Copyright 2019-2021 Colorado State University and Western Michigan University
+
+This material is based upon work supported by the U.S. Department of Energy's Office of Energy
+Efficiency and Renewable Energy (EERE) under the Vehicle Technologies Office award number
+DE-EE0008468, "Mobility and Energy Improvements for Fort Collins and Denver". Colorado State
+University led the project, with the National Renewable Energy Laboratory, the cities of Fort
+Collins and Denver, the Northern Colorado and Denver Clean Cities coalitions, and Western
+Michigan University (Energy Efficient and Autonomous Vehicles Lab, now the AD Assurance Lab).
+The data were collected by the CSU Vehicle Innovation Team in Fort Collins in 2019; traffic
+signal and segment travel-time data come from the City of Fort Collins.
+
+Released with the agreement of the CSU principal investigator (Thomas H. Bradley). Volunteer
+drivers are identified only by driver IDs D01 to D07.
+
+Code is licensed under the Apache License, Version 2.0 (see LICENSE). Documents and data are
+licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).

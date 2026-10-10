@@ -1,0 +1,3 @@
+classdef TrafficSignal<handle
+    properties
+        

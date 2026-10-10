@@ -1,0 +1,26 @@
+RawData.mat - contains raw data for the test, ADAS (Radar/Camera) data adjusted assuming test began at 3:35 PM
+Data_Concat.m - Used to generate RawData - can be used to change sync point
+
+Note that for all data the time is in seconds from midnight (00:00:00) on may 15 2019
+
+Units are SI unless otherwise specified:
+
+For V2I - average speeds are in mph
+
+For V2V and Ego data:
+
+Latitude, Longitude, and bearing angles are in degrees
+Accelerations are in Gs
+Engine speed is in RPM
+
+Phase coding:
+
+Standard phases in Fort Collins are:	
+Phase 1 	NB LT
+Phase 2	SB Thru
+Phase 3 	WB LT
+Phase 4	EB Thru
+Phase 5	SB LT
+Phase 6	NB Thru
+Phase 7	EB LT
+Phase 8	WB Thru
